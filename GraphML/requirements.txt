@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+networkx
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
